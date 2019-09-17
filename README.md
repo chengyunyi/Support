@@ -1,2 +1,2 @@
 # Support
-booyah的技术支持
+我是booyah App的技术支持
